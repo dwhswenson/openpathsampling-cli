@@ -2,6 +2,7 @@
 [![Documentation Status](https://readthedocs.org/projects/openpathsampling-cli/badge/?version=latest)](https://openpathsampling-cli.readthedocs.io/en/latest/?badge=latest)
 [![Coverage Status](https://codecov.io/gh/openpathsampling/openpathsampling-cli/branch/master/graph/badge.svg)](https://codecov.io/gh/openpathsampling/openpathsampling-cli)
 [![Maintainability](https://api.codeclimate.com/v1/badges/0d1ee29e1a05cfcdc01a/maintainability)](https://codeclimate.com/github/openpathsampling/openpathsampling-cli/maintainability)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdwhswenson%2Fopenpathsampling-cli.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdwhswenson%2Fopenpathsampling-cli?ref=badge_shield)
 
 # OpenPathSampling CLI
 
@@ -75,3 +76,7 @@ be re-used to load things from storage. The CLI is built on
 [`click`](https://click.palletsprojects.com/), so additional arguments are
 easily added using functionality from `click`. See our developer documentation
 for details.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdwhswenson%2Fopenpathsampling-cli.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdwhswenson%2Fopenpathsampling-cli?ref=badge_large)
